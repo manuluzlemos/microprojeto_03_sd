@@ -1,0 +1,11 @@
+{
+  "name": "microprojeto_03_sd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Emanuelle Lemos",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.5",
+    "@grpc/proto-loader": "^0.6.7"
+  }
+}
